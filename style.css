@@ -1,0 +1,229 @@
+body {
+  background: #85a2a2;
+}
+
+.Menu {
+  background: #202020;
+  width: 1368px;
+  height: 140px;
+  position: relative;
+  top: -10px;
+  left: -10px;
+}
+
+
+
+
+
+
+
+
+
+
+.LinkButton {
+  background: #3d3e3e;
+  color: white;
+  border-left: 30px solid #3d3e3e;
+  border-right: 30px solid #3d3e3e;
+  border-top: 15px solid #3d3e3e;
+  border-bottom: 10px solid #3d3e3e;
+  text-decoration: none;
+  font: bold 15px Arial;
+  text-align: center;
+  position: relative;
+  top: 27px;
+  right: -80px;
+  transition: all 0.5s ease-in-out;
+}
+
+
+.LinkButton:hover {
+  background: #5d7171;
+  border-left: 30px solid #5d7171;
+  border-right: 30px solid #5d7171;
+  border-top: 15px solid #5d7171;
+  border-bottom: 10px solid #5d7171;
+}
+
+
+
+#Aggiornamenti {
+  top: 9px;
+  right: -312px;
+}
+
+#Info {
+  top: 9px;
+  right: -317px;
+}
+
+#Home {
+  top: 9px;
+  right: -322px;
+}
+
+#Bot {
+  top: 9px;
+  right: -327px;
+}
+
+
+.BotName {
+  color: white;
+  position: relative;
+  top: -100px;
+  left: -460px;
+  text-decoration: none;
+  font-size: 50px;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
+
+
+
+
+
+
+.ListaVocaboli {
+  list-style-type: square;
+  color: white;
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+
+
+.VocaboliInfo {
+  color: white;
+  font-size: 66px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+.AggiornamentiInfo {
+  color: white;
+  font-size: 53px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+.VocaboliCounter {
+  position: relative;
+  right: -800px;
+  top: -70px;
+}
+
+
+
+#VocaboliCounterOne {
+  color: white;
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#VocaboliCounterNum {
+  color: white;
+  font-size: 63px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#VocaboliCounterTwo {
+  color: white;
+font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+.InfoBar {
+  position: relative;
+  top: -1630px;
+  left: 1100px;
+  background: #202020;
+  height: 1000px;
+  width: 258px;
+}
+
+
+
+.Shadow {
+  text-align: center;
+  background: black;
+  opacity: 30%;
+  position: relative;
+  top: -56px;
+  height: 10px;
+}
+
+
+.StatsText {
+  color: white;
+  position: relative;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.Status {
+  color: #92f06f;
+  position: relative;
+  top: -43px;
+  left: 62px;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+.InfoText {
+  color: white;
+  position: relative;
+  text-decoration: none;
+  font-size: 60px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.Info {
+  color: white;
+  position: relative;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  position: relative;
+  top: 22px;
+  left: 21px;
+}
